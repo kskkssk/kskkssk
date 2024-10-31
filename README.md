@@ -10,3 +10,9 @@
 <a href="https://dvc.org/doc"><img src="https://img.shields.io/badge/dvc-white?style=for-the-badge&logo=dvc&logoColor=13ADC7"/></a><a href="https://mlflow.org/docs/latest/index.html"><img src="https://img.shields.io/badge/mlflow-white?style=for-the-badge&logo=mlflow&logoColor=FC6D26"/></a><a href="https://airflow.apache.org/docs/apache-airflow/stable/index.html"><img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/></a>
 
 <a href="https://scikit-learn.org/0.21/documentation.html"><img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/></a><a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/></a><a href="https://pandas.pydata.org/docs/user_guide/index.html"><img src="https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=150458"/></a>
+
+## Profile
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kskkssk&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
