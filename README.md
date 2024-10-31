@@ -1,4 +1,4 @@
-## Hi there 👋
+### <h1 align="center">Hi there, I'm <a href="https://github.com/kskkssk" target="_blank">Aleksandra</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Backend developer with a passion for data analysis. Always learning and exploring new technologies! </h3>
 
 ## Languages & tools
 <a href="https://docs.python.org/3/"> <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=4682B4"/> </a>
